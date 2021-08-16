@@ -502,7 +502,6 @@ method:
 
 
 SimpleExperiment = {
-    "version": "1.0.0",
     "title": "Hello world!",
     "description": "Say hello world.",
     "steady-state-hypothesis": {
@@ -711,7 +710,6 @@ ExperimentWithInterruptedExperimentAndARollback["method"][0]["controls"] = [
 
 
 ExperimentGracefulExitLongHTTPCall = {
-    "version": "1.0.0",
     "title": "Say hello and kaboom",
     "description": "n/a",
     "method": [
@@ -759,7 +757,6 @@ ExperimentGracefulExitLongHTTPCall = {
 
 
 ExperimentGracefulExitLongProcessCall = {
-    "version": "1.0.0",
     "title": "Say hello and kaboom",
     "description": "n/a",
     "method": [
@@ -798,7 +795,6 @@ ExperimentGracefulExitLongProcessCall = {
 
 
 ExperimentGracefulExitLongPythonCall = {
-    "version": "1.0.0",
     "title": "Say hello and kaboom",
     "description": "n/a",
     "method": [
@@ -837,7 +833,6 @@ ExperimentGracefulExitLongPythonCall = {
 
 
 ExperimentUngracefulExitLongHTTPCall = {
-    "version": "1.0.0",
     "title": "Say hello and kaboom",
     "description": "n/a",
     "method": [
@@ -885,7 +880,6 @@ ExperimentUngracefulExitLongHTTPCall = {
 
 
 ExperimentUngracefulExitLongProcessCall = {
-    "version": "1.0.0",
     "title": "Say hello and kaboom",
     "description": "n/a",
     "method": [
@@ -924,7 +918,6 @@ ExperimentUngracefulExitLongProcessCall = {
 
 
 ExperimentUngracefulExitLongPythonCall = {
-    "version": "1.0.0",
     "title": "Say hello and kaboom",
     "description": "n/a",
     "method": [
@@ -963,7 +956,6 @@ ExperimentUngracefulExitLongPythonCall = {
 
 
 SimpleExperimentWithFailingHypothesis = {
-    "version": "1.0.0",
     "title": "Hello world!",
     "description": "Say hello world.",
     "steady-state-hypothesis": {
@@ -999,7 +991,6 @@ SimpleExperimentWithFailingHypothesis = {
 
 
 SimpleExperimentWithBackgroundActivity = {
-    "version": "1.0.0",
     "title": "Hello world!",
     "description": "Say hello world.",
     "method": [
@@ -1032,7 +1023,6 @@ SimpleExperimentWithBackgroundActivity = {
 }
 
 ExperimentWithBypassedActivity = {
-    "version": "1.0.0",
     "title": "do stuff",
     "description": "n/a",
     "method": [
