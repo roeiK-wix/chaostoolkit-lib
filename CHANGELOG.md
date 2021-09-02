@@ -1,9 +1,16 @@
 # Changelog
 
 ## [Unreleased][]
+# Added 
+
+* The new dry run with 4 options:
+  * --dry=activities run all activities as dry run. (same as the old flag)
+  * --dry=actions run all actions as dry run.
+  * --dry=probes run all probes as dry run.
+  * --dry=pause run all activities with no pausing.
+* Added tests
 
 [Unreleased]: https://github.com/chaostoolkit/chaostoolkit-lib/compare/1.21.0...HEAD
-
 ### Changed
 
 * Switched from pycodestyle/pylama to `black`, `flake8`, `isort`
